@@ -14,3 +14,4 @@ React + Three.js (React Three Fiber) + GSAP + Lucide, with an optional Node/Expr
 
 Pricing: first 10 sim-minutes free, then hourly (car Rs30, EV Rs25, bike Rs10) × demand multiplier (x1 / x1.25 / x1.5). 1 real second = 2 simulated minutes.
 # AI-CAR-PARKING-SYSTEM
+
